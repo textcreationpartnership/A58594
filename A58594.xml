@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvvere from the Committee of Estates, to a printed paper directed to the people of Scotland and signed in name of L.G. Cromwel, and his officers.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58594</idno><idno type="EEBO-CITATION">99826234</idno>
+  <idno type="VID">30631</idno>
+  <idno type="EEBO-PROQUEST">2264201223</idno>
+  
+            <idno type="STC">Wing S1179</idno>
+            <idno type="STC">ESTC R213993</idno>
+            <idno type="PROQUEST">99826234</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826234e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1800:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvvere from the Committee of Estates, to a printed paper directed to the people of Scotland and signed in name of L.G. Cromwel, and his officers.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>the 22. of July. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the Union Theological Seminary (New York, N.Y.) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30631:1"/>
+            <pb facs="tcp:30631:1"/>
+            <p>
+               <hi>AN</hi> ANSVVERE FROM THE COMMITTEE OF ESTATES, To a Printed Paper directed to the people of <hi>Scotland,</hi> and signed in name of L. G. <hi>Cromwel,</hi> and his Officers.</p>
+            <q>
+               <bibl>34. <hi>Jer:</hi> 17.18.19.20. &amp;c.</bibl>
+               <p>And I will give the men that have transgressed my Covenant, which have not performed the words of the Covenant, which they had made before me when they cut the Calfe in two and passed betwixt the parts of the Calfe, <hi>I</hi> will even give them unto the hand of their Enemies, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>17. <hi>Eze:</hi> From the 12. v. to the end.</bibl>
+               <p>Seeing he despised the Oath by break<g ref="char:EOLhyphen"/>ing the Coven<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt (when lo he had given his hand) and hath done all these things, he shall not escape. Therefore thus saith the Lord God, as I live surely mine Oath that he despised, and my Covenant that he hath broken, even it will <hi>I</hi> recompense upon his own head. Shall hee pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sper? shall hee escape that doth such things? or shall he break the Covenant and be delive<g ref="char:EOLhyphen"/>red? I will spread my Net upon him, and take him in my snare for his trespasse that be hath trespassed against me, and all the Trees of the field shall know that I the Lord have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the drie tree to Flourish, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>5. <hi>Neh:</hi> 12.13.</bibl>
+               <p>Then I called the Priests and took an Oath of them that they should do according to this promise, also I shook my lap and said, so God shake out every man from his house and from his Labour that performeth not the promise, even thus be he shaken out and emptied, and all the Congre<g ref="char:EOLhyphen"/>gation said, Amen and praised the Lord, and the People did according to this Promise.</p>
+            </q>
+            <p>EDINBVRGH the 22. of July, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:30631:2"/>
+            <pb facs="tcp:30631:2"/>
+            <head>AN ANSWER From the Committee of Estats, to a Printed Paper directed to the People of <hi>Scotland,</hi> and signed in name of L. G. CROMVVEL, and his Officers.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Commitee of Estates having seen a printed Paper direct to the People of <hi>Scotland</hi> and signed by <hi>Rushworth</hi> in name of the General <hi>Cromwel</hi> and his Counsel of Officers, to steal away the hearts of this People from their necessary duties, and that before their Declarati<g ref="char:EOLhyphen"/>on were communicat by them to Us, We have appointed this short Answere thereunto to be Printed and to be communicat to the Officers and Souldiours of that invading Army. And whereas it sheweth their ad<g ref="char:EOLhyphen"/>vancing unto <hi>Scotland</hi> is upon the grounds, and for the ends expressed in their De<g ref="char:EOLhyphen"/>claration 26 <hi>June</hi> 1650. Although all their pretences for the lawfulnesse and ne<g ref="char:EOLhyphen"/>cessity of this their Invasion be fully and clearly answered in the Declaration of the Generall Assembly, and of the Commitee of Estates. Yet because these may not come to all mens hands, Wee desire them to consider this short Answer to their main pretences which are Our accession to the unlawfull Engagement 1648 the dissent of Our Commissioners at <hi>London</hi> against their proceedings, Our refusall of all amicable wayes and Treaty with them, Our designe and Engagement by Treaty to the King to invade <hi>England,</hi> and now our closing with, and entertaining of the Kings Majesty who hes given Commissions against them <hi>&amp;c.</hi> As for the En<g ref="char:EOLhyphen"/>gagement, the Letter of the House of Commons hath acknowledged it not to be Nationall, and L. Generall <hi>Cromwell</hi> conducter of this present Army by His own Letters sent from the Borders 1648. to the dissenters then in Arms acknowledges the present Governing party of <hi>Scotland</hi> free of all accession to it, and not only the world but their own consciences knoweth it by Our doing and suffering so much against the same: So may the Lord judge between them and Us, as that which is
+<pb facs="tcp:30631:3"/> said in their Declaration is true or false, that, <hi>all of us concurred in the desgne to make a prey to themselves of the Engl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh, though some difference fell amongst them who should Save the greatest power of Command.</hi> Will they thus requite Our assistance of them 1641. and again 1643. and Our opposition to any parties invasion of them 1648. by their actuall invading Us now, and return War for Peace, and evill for good? Will they not consider that by their reacting the sins of our Engagers against Covenant and Treaties, they will move the Lord of Hosts, who is the same in Justice, Power and Wisdome in 1650. as in 1648. to react the same Judgements against the unjust In<g ref="char:EOLhyphen"/>vaders? And for these who are thus necessitat to their own just Defence, as our Innocency in the matter of the Engagement, so Our duty in the dissent of Our Commissioners is evident, and containes nothing but a Testimony of our adhe<g ref="char:EOLhyphen"/>rence unto the former Principles wherein both Kingdoms were Engaged to God, and each to other, and an evidence of Our desire to keep Our selves from all ac<g ref="char:EOLhyphen"/>cession to any proceedings contrare thereunto, that We might be free of the guilt and miserable consequences thereof. Did not the many Oathes and Bonds be<g ref="char:EOLhyphen"/>tween the Nations and our former conjunctions with them in Counsels and For<g ref="char:EOLhyphen"/>ces tye us to such a Testimony for clearing our selves, and warning of others? Will not many things make a Testimony necessary which will not infer a necessity to make War? is there either Law, Conscience, or Reason, to force by War upon another Nation ane acknowledgement of their usurpations or alterations? Or did ever a Nation found a War upon this ground of another Nations testimony against the sinfulnesse of their course least they should be involved with them therein? And as this Testimony and dissent was not intended, and doth not import any fundation of War or designe of our invading of <hi>England,</hi> so far lesse can it be a just ground of War upon their part to invade <hi>Scotland,</hi> and the very pretending of it to be a cause of War, doth engage God to protect Us who intended it meerely as our necessary duty in reference to the ends of his Covenant, without claiming any Jurisdicti<g ref="char:EOLhyphen"/>on over the Laws or Government of the Kingdome of England, as Our Letter 6 <hi>March</hi> 1649. fully declares, and if upon the pretence of Our Remonstrances (as usurpations on their legislative power) they will come and attempt by the Sword to dissolve our Judicatories, destroy our Forces, conquesse and subdue the Nation, inforce by War upon us, a breaking with them of our Solemne League and Cove<g ref="char:EOLhyphen"/>nant, and to change our Civile and Ecclesiastick Government, and establish amongst us a Tolleration of Errors, and Anarchy under pretence of just freedome and preferring Love and Peace, to Discipline and Government, and so really intend and act indeed all those wrongs in the highest degree wherewithall they charge us as guilty, but in Intentions, and from Inferences of words, and that most unjust<g ref="char:EOLhyphen"/>ly; Will not He that made the Eye see, &amp; requite accordingly? As for our refusall of all amicable wayes, the contrary thereof is manifest by our Papers and Declarati<g ref="char:EOLhyphen"/>ons, for We were ever content to treat with the lawfull Authority of <hi>England,</hi> that mutuall satisfaction and reparation of injuries might be given by either of the Kingdoms to other, yea, We were never unwilling (wrongs being represented condescended upon, and made evident by any of that Nation) to return such An<g ref="char:EOLhyphen"/>swers as might give all just satisfaction: as doth appear by the answer of the Parlia<g ref="char:EOLhyphen"/>ment 26. <hi>Iune</hi> 1649. And We have been so far from rejecting all amicable wayes as we have proposed them in our Letter the 6 <hi>March</hi> 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. which hath been con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iled, and is not printed with the rest and in our Letter the 22. <hi>Iune</hi> 1650.
+<pb facs="tcp:30631:3"/> that breaches of Peace, might first bee Remonstrated and Reparation sought and three months warning preceed any Engagement of these Kingdomes in War. But in stead of any answer to the first or last, Our publike Messengers have been detained contrair to the law of Nations, and an Army is marching unto this Kingdom without any previous warning, Yea, without so much as telling us or the world that they were not satisfied with these letters or with out answer 26 <hi>Iune</hi> 1649, the Reply whereunto, of 14 <hi>Iuly</hi> was never made known to us nor published till now. As for the supposed design and Engagement of this Kingdom by Treaty, with the Kings Majestie to invade the Kingdom of <hi>England,</hi> The Searcher of hearts knows how tender and free the Parliament and Church of <hi>Scotland</hi> hath been from all such Engagements. Likeas in the Treaty they have declared to the King, that their Resolution to use all lawfull means according to their Covenant for his peaceable restitution unto the government of these King<g ref="char:EOLhyphen"/>doms, did not import their Engagement or obligation to make war in <hi>England</hi> or <hi>Ireland,</hi> unlesse the lawfulnesse and necessity thereof were first determined by the Parliament of this Kingdom and generall Assembly of this Church: in either of which, that question as yet was never stated, and so is very far from being deter<g ref="char:EOLhyphen"/>mined. And thus it is evident that this Kingdom is not Engaged therein either by Treaty or Resolution, and by their letters before mentioned (beside the publike Acts of the Parliament) hath declared their obligation and Resolution to keep the order of seeking Reparation, using fair means and giving three months war<g ref="char:EOLhyphen"/>ning, and looking for a Iudgement from Heaven upon whatsoever party of either Nation, who without a necessary cause and clear calling and observance of the order aforesaid shall invade the other Nation.</p>
+            <p>As for our Closing with, and entertaining the Kings Majesty, who they say hath given Commissions to Rob and Spoil, &amp;c. can the Kingdom of <hi>Scotland</hi> their closing with, and entertaining of their King, according to their Alleageance and Covenant, upon his giving them full satisfaction in all their desires from Church and State, be justly esteemed a certain fundation of our second unjust and unrigh<g ref="char:EOLhyphen"/>teous invasion of <hi>England,</hi> as is said in the papers especially considering our letters and answers before mentioned; or can it be esteemed in any Law or Reason, an necessary ground for their entring with an <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>my into this Kingdom, whilst we acknowledge both Nations to stand obliedg<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not to invade others without a necessary cause, clear calling, and observance of the aforesaid order of the Treaty? Or can the Kings giving any Commissions against them before his agreement with this Kingdom and without any knowledge, consent, and approbation of theirs, be a just ground of war against this Nation, who had no hand in such Commissions? And as he hath already recalled all Commissions granted to any in prejudice of any persons, who in any of his Kingdoms adhered to the solemn League and Co<g ref="char:EOLhyphen"/>venant, and to Monarchicall Government. So farther we are confident that since the Kings coming to <hi>Scotland,</hi> he hath given Commission to none. And we beleeve that he will be ready to clear and declare that he intends not by his former giving of Commissions, the Pyraticall way of robbing and spoyling of Innocent mer<g ref="char:EOLhyphen"/>chands using their lawfull trade, which is so unjustly done by the English ships un<g ref="char:EOLhyphen"/>to these of the like kinde in the Nation, whose cryes will go loud to Heaven. Like<g ref="char:EOLhyphen"/>as the Kings dealing with any other Princes or using means with any other Nati<g ref="char:EOLhyphen"/>ons,
+<pb facs="tcp:30631:4"/> for recovery of his rights in <hi>England,</hi> cannot be so much as a pretence, and far lesse a just ground of the English invading this Nation; unlesse he had prevailed with us to Engage and declare our resolutions to concurre in that war and invade <hi>England,</hi> for the Kings Majesties giving satisfaction to the Kingdom of <hi>Scotland,</hi> and the Kingdom of Scotland doing all duty to their King in Scotland, cannot be a shadow either of justice or necessity of a Quarrell or War from any other Nation against us, while we do them no wrong, and acknowledge our selves bound to give previous warning.</p>
+            <p>We do therefore desire the Officers and Souldiers of the Army under Lieveten<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwell,</hi> to lay to heart the great guiltinesse and misery that fol<g ref="char:EOLhyphen"/>lowes upon an unjust Invasive War, especially, of Gods Covenanted people, and most of all for their adherence to His Cause and Covenant, and that without any previous warning, and with a rejection of offers agreable to Treaties and law of Nations, sometimes pressed be themselves, and that for prevention of Mutuall invasion blood and mischief, they would consider that the forsaid pre<g ref="char:EOLhyphen"/>tences are either false in fact or unjust causes of War, that it is provocation enough in them against God for to break and burie His Covenant amongst themselves, but far more to enforce the breach of it upon another Nation, who hath done them no wrong, that Gods raising them up as a scourge against the Malig<g ref="char:EOLhyphen"/>nant party and giving to them as instruments of His Iustice, great successes to de<g ref="char:EOLhyphen"/>stroy His old enemies, will not import His owning their persons or cause against us; no more then the successe of Senacherib against severall Nations, and of Ama<g ref="char:EOLhyphen"/>ziah against Edom did prove it when they fought with Iudah and Israel. Espe<g ref="char:EOLhyphen"/>cially when they change the state of the question and the party, and thinks to do with Ierusalem as with Samaria, and turns their power to the destruction of these ends, means, and instruments, for whose defence it was put in their hands as is unjustly said by them in their declaration against the well-affected of this King<g ref="char:EOLhyphen"/>dom, that their tolerated errours and their oppression of the servants and people of God in <hi>England</hi> and <hi>Ireland,</hi> cryes loud enough to Heaven against them, albeit they add not thereto the cry of the Church and Kingdom of <hi>Scotland,</hi> the Virgin forced in the fields crying against the ravisher, is loud and shrill in the ears of God, and will not their forcing the Bryde and Spouse of Iesus Christ, even in His sight, cry loud for a day of Revenges and Recompences upon these who will not only break Covenant and allow others to break it; but will also force others to break it. We were glad to read their attesting Heaven and Earth as witnesses, and there appeall unto the living God, to whom also as to the Righteous Iudge of the World we commend our persons and cause, that His judgement may light upon these who are the Designers Authors and Actors of this Invasion; who keeps not to the Principles, Ends, and Duties of the Covenant, and not upon these who de<g ref="char:EOLhyphen"/>sires and endeavours by His Grace to keep themselves free from these Courses. And we are confident He will find the means and the way of clear decision who are His people, whom He will own, and who are His enemies, whom He will judge, and who are they whose offering He will accept, and what is the cause which He will cary through. And so wee leave them and us at His Footstooll; that the Hand of the Lord may be known towards His servants, and indignation towards His enemies, and that He may be magnified from the border of Israel.</p>
+            <pb facs="tcp:30631:4"/>
+            <p>And <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sider that the end and strain of the whole Paper is but to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> smooth words of <hi>Iacobs</hi> voice, which by dear experience hereafter they will finde to be joyned with <hi>Esau,</hi> rough hands, and that by this matchivilian craft they la<g ref="char:EOLhyphen"/>bour to divide them from their King, from the Nobility, from the Ministery, from these of the Gentrie and Burrows who were intrusted by them, and had a hand in the Parliament or Committees either for agreeing with the King, or for sending that Answer of 26 <hi>Iune</hi> 1649, to the speaker of the House of Commons, whereas in both these there was an unanimous consent and concurrence of the Judicatories of Church and State, with the hearty applause of all the Kingdome, whereas they say they were in 1648. invited, and then did no injury nor wrong to any: The full answer to their Declaration cleareth that there was no invitation, and doth not deny but their cariage then was civile and fair, but they came in then as Friends, pursuing these who had unjustly invaded them, but now they come in as Enemies, invading these who never did them wrong, and shall the People believe the attesta<g ref="char:EOLhyphen"/>tions made to them be these who hes so often broken Covenants, aleadgeances, and Treatyes, and who hes declared that all their Declarations are arbitrary, am<g ref="char:EOLhyphen"/>bulatory, and alterable at pleasure. Is it to be expected that these who does Nati<g ref="char:EOLhyphen"/>onall wrongs with so high a hand will make conscience of redressing personall in<g ref="char:EOLhyphen"/>juries and losses. It is strange to hear that they should say they fear our destroying not only the godly and well affected, but also the power of godlines and holynesse in both Nations, which they indeed do their utmost to destroy by their godlesse Tolleration of Errors, Heresie, and Schisme, and by their cruel oppression of the godly Ministers and People in their consciences. They professe they would make a difference betwixt the Innocent and the guilty, but when they with the Sword in their hands are the Judges of this innocency and guiltinesse, and declares in this Paper they compt all guilty who concurres in the intertaining of the King, or in not acknowledging the Comon-wealth of England (in both which all Scotland lies unanimously concurred, and to which they will according to their Covenant and trust by the assistance of God adhere constantly to their lives end) Wee see not but from such Judges, &amp; such premisses, there followeth a clear demonstration of their design and conclusion of seasing upon the Persons, Goods; and Estats of all the Sub<g ref="char:EOLhyphen"/>jects of this Kingdom as they have already done in taking the Ships &amp; goods of in<g ref="char:EOLhyphen"/>nocent &amp; trading Merchands, which may be sufficient warning unto all, the more a<g ref="char:EOLhyphen"/>ctively speedily to do duty &amp; concur with the Army of this Kingdom, for defence of their Religion, King and Countrey according to their Covenant; and no wayes to comply with the Sectarian Army invading this Kingdome, which the Commitee of Estates doeth discharge in the same tearms, and under the same penalty under which before they discharged all joyning to and complying with the Ma<g ref="char:EOLhyphen"/>lignants in Armes invading▪ this Kingdome. It is no small Encourage<g ref="char:EOLhyphen"/>ment unto thir duties, that the Lord in his Providence hath so ordered their declaring the Causes of the Lawfullnesse, and Necessity of the War to be such for which we trust the Lord in His mercy and goodnesse will not quarrell with us, and in which not one of the godly of the land known to us hath any scruple, but sees clearly that we were either innocent of, or dutifull in the point of fact laid to our charge, and so wherein God is Engaged to be for us and to
+<pb facs="tcp:30631:5"/>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we rejoyce that nothing wherein God hath a just quarrell against us, is mentioned in the Causes of their quarrell set down in that Declaration 26 <hi>Iune</hi> 1650, which had been terrible to us, but now we do most heartily blesse His Name, that He hes keeped them Separat and Contradistinct, &amp; gives us a door of Hope &amp; ground of Confidence, that howsoever the Lord be pleased to do with us for our provocati<g ref="char:EOLhyphen"/>ons against him; He will let us fall in His own Hand, and reckon with us at another time, in another way, but that He would not deliver up unto the hand of His &amp; our Enemies His Turtle Dove, &amp; Covenant and People, who hath not wronged them nor sinned with them, but are persued by them because we will not break with them the Covenant which they solemnly did swear with us, And therefore we desire that the Covenanted God of the land, who keeps Covenant and mercy to His people, and sets His Face against these that sets their face against Him, may in this our just defence protect and own us: against the unjust Invaders.</p>
+            <p>And in this the case of the <hi>Ammoni<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> against <hi>Iepthah,</hi> of <hi>Ieroboam</hi> against <hi>Ab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jah,</hi> of <hi>Ama<g ref="char:EOLhyphen"/>ziah</hi> against <hi>Iehoash.</hi> of <hi>Senacherib</hi> against <hi>Hezekiah,</hi> and of <hi>Moab, Ammon</hi> and mount <hi>Seir</hi> against <hi>Iehosaphat</hi> with the 34 of <hi>Ieremiah,</hi> and 17. of <hi>Ezekiel,</hi> verified not only of old upon others, but lately upon our Engagers and Malignants abroad and at home, speaketh terrour to our Enemies, and incouragement to Gods People.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30631:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
